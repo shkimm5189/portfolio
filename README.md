@@ -36,9 +36,11 @@
 ```
 Apache Zookeeper 구성 및 설치 방법 문서화.
 
-Apache Kafka Broker, Schema Registry, Connector, producer, consumer, Confluent Platform ControlCenter, KsqlDB 특징 이해, 구성, 설치 및 최적화 문서화.
+Apache Kafka Broker, Schema Registry, Connector, producer, consumer,
+Confluent Platform ControlCenter, KsqlDB 특징 이해, 구성/관리, 설치 및 최적화 설정법 문서화.
 
 Apache Kafka + ElasticSearch + Kibana 연동.
+
 twitter 특정 키워드 실시간 처리 후 시각화.
 ```
 
