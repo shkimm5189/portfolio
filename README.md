@@ -11,12 +11,12 @@
 [TOPCIT](/images/Topcit.pdf)
 
 # 활동
-- CCCR 클라우드 아카데미 4기 (2021.04 ~ )
+- CCCR 클라우드 아카데미 4기 (2021.04 ~ 진행중)
 - KT CS 유니벤처 경진대회 장려상
-- 한국외대 조정부
+- 한국외대 조정부(2019,2020) (대학생 대표 세계대회 출전)
 
 # 공부했던 내용들
-[Coding Test 대비](https://github.com/shkimm5189/CodeTestPrac)
+[Coding Test 대비 Github repo.](https://github.com/shkimm5189/CodeTestPrac)
 ```
 코딩 테스트 준비를 위해서 풀었던 문제를 정리.
 사용 언어 : JAVA
@@ -25,7 +25,7 @@
 
 ![baekjoon](/images/baekjoon.png)
 
-[공부내용 정리 Github](https://github.com/shkimm5189/today-i-learned)
+[공부내용 정리 Github repo.](https://github.com/shkimm5189/today-i-learned)
 ```
 한국 클라우드 컴퓨팅 연구조합(CCCR) 교육 과정 및 취업 준비하면서 공부했던 내용들을 정리하고 기록한 레포지토리.
 ```
@@ -45,37 +45,37 @@ twitter 특정 키워드 실시간 처리 후 시각화.
 ```
 
 ## Spring Project
-[산학 협력 프로젝트(Spigen)](https://github.com/shkimm5189/ContractManageSystem)
+[산학 협력 프로젝트(Spigen) Github repo.](https://github.com/shkimm5189/ContractManageSystem)
 ```
 한국 외국어대학교 졸업 작품
+- 계약서 관리 시스템 개발
+
+- 게시판, 로그인, 메일 전송 기능 담당 및 구현 경험
 ```
 
 ## Django Project
-[Django Project github](https://github.com/shkimm5189/today-i-learned/tree/main/Django)
+[Django Project Github repo.](https://github.com/shkimm5189/today-i-learned/tree/main/Django)
+***!!!링크 참조!!!***
 ```
 로그인 기능, 게시판 기능 분리
 CRUD 구현
 ```
 
 ## Ansible & Terraform 실습
-[Ansible wordpress,mysql 배포](https://github.com/shkimm5189/ansible-wordpress)
-```
-mysql, wordpress 자동화 세팅 playbook
-```
-
-[Terraform(AWS)-Ansible](https://github.com/shkimm5189/proj-terrform)
+[Terraform(AWS)-Ansible Github repo.](https://github.com/shkimm5189/proj-terrform)
 ```
 Terraform을 사용하여 AWS Instance (ec2, rds)를 코드로서 정의 관리
 직접 ec2 instance에 ansible을 사용하여 wordpress를 배포하고 AWS rds와 연동.
 ```
 
-## docker/kubenetes 실습
-[docker 환경 구성](https://github.com/shkimm5189/docker-compose)
+[Ansible wordpress,mysql 배포 Github repo.](https://github.com/shkimm5189/ansible-wordpress)
 ```
-Haproxy, db server(mysql), Django project를 연동하여 배포.
+mysql, wordpress 자동화 세팅 playbook
 ```
 
-[kubenetes 환경 구성](https://github.com/shkimm5189/k8s-install)
+
+## docker/kubenetes 실습
+[kubenetes 환경 구성 Github repo.](https://github.com/shkimm5189/k8s-install)
 ```
 kubeadm, kubelet, kubectl 패키지를 활용하여 kubenetes 설치 및 업데이트 문서화.
 
@@ -83,6 +83,13 @@ kubeadm, kubelet, kubectl 패키지를 활용하여 kubenetes 설치 및 업데�
 
 Add-on(metric-server, rook-ceph storage, metal-LB)  설치 방법 및 구성 문서화.
 ```
+
+[docker 환경 구성 Github repo.](https://github.com/shkimm5189/docker-compose)
+```
+Haproxy, db server(mysql), Django project를 연동하여 배포.
+```
+
+
 
 # 수상 내역
 - KT CS 유니벤처 경진대회 장려상
